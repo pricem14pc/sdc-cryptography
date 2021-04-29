@@ -28,7 +28,6 @@ setup(
     description="A shared library for SDC services that use JWT with JWE",
     author="ONS",
     url="https://github.com/ONSdigital/sdc-cryptography",
-    long_description="long description text",
     classifiers=[
         "Operating System :: OS Independent",
         "Programming Language :: Python :: 3.6",
