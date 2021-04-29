@@ -3,7 +3,7 @@ name: PR
 on:
   pull_request:
     branches:
-      - "master"
+      - "migrate-travis-to-gh-actions-test"
 
 jobs:
   python-dependencies:
