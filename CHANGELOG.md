@@ -1,5 +1,5 @@
-### 1.1.3
-- Update 3
+### 1.1.4
+- Update 4
 - Deprecate Travis CI integration
 - Add Github Actions workflows
 
